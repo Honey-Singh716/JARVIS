@@ -1,0 +1,15 @@
+# .gitignore
+# Ignore environment variables and sensitive data
+.env
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Data files
+data/
+
+# OS files
+.DS_Store
+Thumbs.db
